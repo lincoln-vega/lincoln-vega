@@ -17,7 +17,7 @@
 
 - **Backend:** Java 17+, Spring Boot 3, Spring Security (JWT), Python (FastAPI), RESTful APIs, PHP, Node.js
 - **Bases de Datos:** PostgreSQL, MySQL, SQL Server (modelado multi-tenant, consultas complejas, procedimientos)
-- **Frontend & Móvil:** React, PWA (Progressive Web Apps), JavaScript, TypeScript, HTML5, CSS3, Bootstrap
+- **Frontend & Móvil:** React 19, PWA (Progressive Web Apps), JavaScript, TypeScript, HTML5, CSS3, Bootstrap 5
 - **Herramientas & DevOps:** Git, GitHub, Docker, Linux, Postman, Vercel, Hosting 20i
 
 ---
@@ -42,6 +42,11 @@
       <td><b>🐟 Yaku Sabor</b><br><i>Gestión integral para restaurante marino con 4 roles y control concurrente</i></td>
       <td><img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" height="20" /> Java 17, Spring Boot 3, JWT, PostgreSQL, Docker</td>
       <td><a href="https://github.com/lincoln-vega/Yakusabor-web">Repositorio</a> · <a href="https://yakusabor-web.vercel.app/Frontend/Principal/HTML/index.html">Demo Web</a></td>
+    </tr>
+    <tr>
+      <td><b>📲 QR Attendance PWA</b><br><i>Sistema PWA responsive de control de asistencias con escáner QR en tiempo real</i></td>
+      <td><img src="https://skillicons.dev/icons?i=react,vite,js" height="20" /> React 19, Vite, PWA, html5-qrcode, LocalStorage</td>
+      <td><a href="https://github.com/lincoln-vega/QR-Attendance-PWA">Repositorio</a></td>
     </tr>
     <tr>
       <td><b>⚡ Barton Web & Bot</b><br><i>Plataforma comercial para tráfico masivo de TikTok y bot automatizado de alertas</i></td>
